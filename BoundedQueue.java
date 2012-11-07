@@ -1,3 +1,12 @@
+/*
+ * BoundedQueue.java
+ * 
+ * Bounded queue implementation for KPCB fellowship application
+ *
+ * By Boyang Zhang
+ * 11/07/12
+ */
+
 
 public class BoundedQueue {
     int[] queue;
